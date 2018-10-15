@@ -5,7 +5,7 @@
 */
 
 //  declare the environments object
-let environments = {};
+const environments = {};
 
 //  declare the staging environment settings
 environments.staging = {
