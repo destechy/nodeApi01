@@ -1,0 +1,7 @@
+PUT http://localhost:3000/tokens
+content-type: application/json
+
+{
+  "id": "u31thjzrjai9i0eakc6t",
+  "extend": true
+}
