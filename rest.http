@@ -1,7 +1,3 @@
-PUT http://localhost:3000/tokens
+GET http://localhost:3000/users?phone=0962864144
 content-type: application/json
-
-{
-  "id": "u31thjzrjai9i0eakc6t",
-  "extend": true
-}
+token: yo5x4px7ux3p12etpjz0
