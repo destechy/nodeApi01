@@ -1,0 +1,3 @@
+GET http://localhost:3000/users?phone=0962864144
+content-type: application/json
+token: yo5x4px7ux3p12etpjz0
